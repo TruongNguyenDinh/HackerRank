@@ -4,7 +4,7 @@ The solution for the exercise maybe not opimal so I would appreciate it if you g
 
 Contact with me
 
-- Gmail : [truongnd1124@gmai.com](truongnd1124@gmail.com)
+- Gmail : [truongnd1124@gmail.com](truongnd1124@gmail.com)
 
 - Facebook : [Nguyen Dinh Truong](https://www.facebook.com/ndtruong24)
 
