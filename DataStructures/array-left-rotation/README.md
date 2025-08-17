@@ -36,4 +36,4 @@ vector<int> rotateLeft(int d, vector<int> arr) {
 }
 ```
 
-
+ 
